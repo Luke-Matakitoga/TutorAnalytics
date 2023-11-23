@@ -1,3 +1,3 @@
 # TutorAnalytics
 
-A reports system for TutorLMS
+A reports plugin for <a href="https://github.com/themeum/tutor">TutorLMS</a>
